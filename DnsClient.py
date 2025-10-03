@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # ECSE 316 - Assignment 1: DNS Client
 # Author: Philippe Aprahamian (261073161)
-# Author: Aerin Brown (???)
+# Author: Aerin Brown (261076118)
 
 import sys
 import socket
